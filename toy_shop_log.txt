@@ -1,0 +1,10 @@
+Received Toy: Toy{id=8, name='Soccer Ball', weight=3} at 1698615281584
+Received Toy: Toy{id=5, name='Puzzle', weight=4} at 1698615281589
+Received Toy: Toy{id=1, name='Doll', weight=5} at 1698615281589
+Received Toy: Toy{id=10, name='Art Supplies', weight=5} at 1698615281589
+Received Toy: Toy{id=3, name='Teddy Bear', weight=6} at 1698615281590
+Received Toy: Toy{id=6, name='Action Figure', weight=7} at 1698615281590
+Received Toy: Toy{id=9, name='Kitchen Set', weight=8} at 1698615281590
+Received Toy: Toy{id=2, name='Car', weight=8} at 1698615281591
+Received Toy: Toy{id=7, name='Board Game', weight=9} at 1698615281591
+Received Toy: Toy{id=4, name='Lego Set', weight=10} at 1698615281592
